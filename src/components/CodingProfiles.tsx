@@ -53,7 +53,7 @@ const CodingProfiles = () => {
   ];
 
   return (
-    <section id="coding" className="py-20">
+    <section id="profiles" className="py-20">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">Coding Profiles</h2>
