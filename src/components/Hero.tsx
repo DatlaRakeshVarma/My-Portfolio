@@ -11,7 +11,7 @@ const Hero = () => {
   const downloadResume = () => {
     // Create a link element and trigger download
     const link = document.createElement('a');
-    link.href = 'https://drive.google.com/file/d/160NioVTR3eaNqTEMPHqV-F8gaVmLdez9/view?usp=sharing'; 
+    link.href = 'https://drive.google.com/file/d/1iGJpXE1r0xYHiuYPZlYEZgNLgB0E5TZk/view?usp=sharing'; 
     link.download = 'Datla_Rakesh_Varma_Resume.pdf';
     document.body.appendChild(link);
     link.click();
