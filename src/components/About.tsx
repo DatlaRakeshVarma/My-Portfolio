@@ -37,7 +37,7 @@ const About = () => {
           <div className="grid grid-cols-2 gap-6">
             <div className="bg-gray-800 rounded-lg p-6 text-center border border-gray-700">
               <div className="text-2xl font-bold text-blue-400 mb-2">600+</div>
-              <div className="text-gray-300 text-sm">Coding Problems Solved In Various Platforms</div>
+              <div className="text-gray-300 text-sm">Coding Problems Solved Across Various Platforms</div>
             </div>
             <div className="bg-gray-800 rounded-lg p-6 text-center border border-gray-700">
               <div className="text-2xl font-bold text-blue-400 mb-2">3 Star</div>
