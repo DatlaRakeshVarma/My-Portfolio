@@ -10,7 +10,7 @@ const CodingProfiles = () => {
       problemsSolved: 350,
       rank: "3 Star",
       color: "bg-blue-600",
-      url: "https://leetcode.com/u/rakeshvarma11/",
+      url: "https://www.codechef.com/users/rakeshvarma11",
       badge: "⭐"
     },
     {
@@ -20,7 +20,7 @@ const CodingProfiles = () => {
       problemsSolved: 230,
       rank: "Knight Soon",
       color: "bg-orange-600",
-      url: "https://www.codechef.com/users/rakeshvarma11",
+      url: "https://leetcode.com/u/rakeshvarma11/",
       badge: "🏆"
     }
   ];
